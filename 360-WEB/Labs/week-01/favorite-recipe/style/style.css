@@ -1,0 +1,59 @@
+html, body
+  {
+    background: #000;
+    margin: 0;
+  }
+.rec-Img img
+  {
+    width: 10em;
+    height: 10em;
+    border-radius: 10em;
+    position: absolute;
+  }
+.section
+   {
+     border: 0.1em solid #000;
+     background: #1a1a1a;
+     color: gray;
+     width: 86%;
+     margin: auto;
+     padding: 4em 2em 6em 2em;
+     
+   }
+ .rec-details
+     {
+        margin-left: 12.8em;
+        margin-top: -1.2em;
+     }
+.rec-details h1
+    {
+      color: red;
+    }
+header
+  {
+    border-bottom: 0.4em solid red;
+    color: red;
+    width: 100%;
+    margin:0;
+    left: 0em;
+    right: 0em;
+    top: 0em;
+    background:#fff;
+    padding: 2em 0em 2em 0em;
+    text-align: center;
+  }
+footer
+  {
+    text-align: center;
+  }
+footer button
+  {
+    text-align: center;
+    color: red;
+    background: #fff;
+    border: 0em;
+    padding: 1.4em;
+    max-width: 18%;
+    min-width: 10%;
+    font-size: 12pt;
+  }

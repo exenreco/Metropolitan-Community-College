@@ -1,0 +1,121 @@
+/* general text formatting */
+
+h1, h2, h3, nav, footer {
+ font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+body {
+   font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+   font-size: 100%;
+}
+
+
+
+  /*-----------------------------------------
+	| Name: Exenreco Bell
+    | Class: Web360 part 1
+    | Date: 01/10/2017
+    | Assignment: chapter 6(Text-book Project 3)
+	| File: chapter06-project03.css
+	-----------------------------------------*/
+	
+	
+
+body
+    {
+        margin-left: 5em;
+        margin-top: 0.6em;
+        margin-right: 5em;
+    }
+#wrapper
+    {
+        margin: auto;
+        max-width: 98%;
+        min-width: 40em;
+    }
+header, nav, main
+    {
+        border: 0.1em solid rgb(152,190,229);
+    }
+header, nav
+    {
+       background-color: rgb(237,246,253);
+       margin-bottom: 0.29em;
+       padding: 0.69em; 
+    }
+nav
+    {
+        margin-bottom: 0.99em;
+    }
+select[name = filter]
+    {
+        width: 10.9em;
+    }
+main
+    {
+        background-color: rgb(250,253,255);
+        padding: 0.9em;
+    }
+table
+    {
+        width: 90%;
+        border-spacing: 0;
+        border-collapse: collapse;
+    }
+table tr td
+    {
+        font-size: 0.79em;
+    }
+table button
+    {
+        color: blue;
+        text-decoration: underline;
+    }
+tr
+    {
+        border-bottom: 0.1em solid rgb(152,190,229);
+        font-style: italic;
+    }
+tr:first-child
+    {
+        font-style: normal;
+    }
+tr:nth-child(2)
+    {
+        background-color: rgb(237,246,253);
+        font-weight: bold;
+        font-style: normal;
+    }
+tr:nth-child(7)
+    {
+        border-bottom: 0em solid rgb(0,0,0)
+    }
+th
+    {
+        background-color: rgb(152,190,229);
+        padding: 0.5em;
+    }
+td:first-child, td:nth-child(2)
+    {
+        padding: 1em;
+    }
+td:nth-child(3), td:nth-child(4), td:nth-child(5), td:nth-child(7)
+    {
+        padding-left: 0.9em;
+        padding-right: 0.9em;
+    }
+td:nth-child(6)
+    {
+        padding-left: 1.9em;
+        padding-right: 1.9em;
+    }
+    
+    
+.corsola
+    {
+        position:absolute;
+	    border: 10px solid black;
+	    margin-left: 1.4em;
+	    margin-top: 1.2em;
+	    background-color:#FFFFFF;
+	    padding: 10px;
+    }

@@ -1,0 +1,127 @@
+  /*-----------------------------------------
+	  | Name: Exenreco Bell
+    | Class: Web360 part 1
+    | Date: 13/12/2016
+    | Assignment: chapter 3(Text-book Project 3)
+	  | File: style.css
+	  -----------------------------------------*/
+	  
+body
+  {
+    background: url("../images/assets/art-background4.jpg");
+    background-size: cover;
+  }
+#wrapper
+  {
+    width: 35.3em;
+  }
+header
+  {
+    /*I could have use this to layout my page
+      but this design really didnt need it!
+      (to see that it works remove this comment
+      only and all other comments with this info, 
+      while only leaving the code below)
+    
+    float: left;
+    position: absolute;
+    top:0em;
+    */
+    background-color: rgb(255,255,255);
+    font-size: 0.9em;
+    padding: 1.5em;
+    padding-bottom: 5em;
+    height:3em;
+    margin-left: 4em;
+    width: 17.9em;
+  }
+header p
+  {
+    margin-top: 0.9em;
+    padding-left: 0.5em;
+  }
+main
+  {
+    /*I could have use this to layout my page
+      but this design really didnt need it!
+      (to see that it works remove this comment
+      only and all other comments with this info, 
+      while only leaving the code below)
+      
+      
+    position: absolute;
+    top: 9em;
+    width: 35.3em;
+    */
+    margin-top: 4em;
+    margin-left: 4em;
+    padding-bottom: 6.5em;
+    background-color: rgba(255,255,255, 0.35);
+  }
+main p:nth-child(2)
+  {
+    margin-left: 0.7em;
+    padding-top: 1.2em;
+    font-weight: bold;
+    font-size: 1.8em;
+  }
+main p:nth-child(4)
+  {
+    font-size: 1.3em;
+    position: absolute;
+    font-weight: bold;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    margin-top: 0.9em;
+    margin-left: 0.7em;
+    width: 15em;
+    text-align: center;
+    color: rgb(255,255,255);
+    background-color: rgba(0,0,0,0.58);
+  }
+main div:first-child
+  {
+    background-color: rgba(255,255,255,0.25);
+    padding: 0.3em;
+    padding-left: 0.7em;
+    font-size: 1.5em;
+  }
+main h2
+  {
+    font-family: Arial;
+  }
+footer
+  {
+    /*I could have use this to layout my page
+      but this design really didnt need it!
+      (to see that it works remove this comment
+      only and all other comments with this info, 
+      while only leaving the code below)
+      
+      
+    position: absolute;
+    top: 27.44em;
+    width: 33.88em;
+    */
+    
+    background-color: rgba(255,255,255,0.9);
+    padding: 0.72em;
+    margin-left: 4em;
+    padding-left: 0.7em;
+  }
+footer a
+  {
+    text-decoration: none;
+    color: rgb(59,50,85);
+  }
+footer a:first-child
+  {
+    border-bottom: 0.1em dotted rgba(3,3,3, 0.5);
+    color: rgba(46,78,257,0.9);
+  }
+  h1:first-child
+  {
+    font-family: 'Six Caps', sans-serif;
+    font-size: 3em;
+    margin-left: 0.2em;
+  }
