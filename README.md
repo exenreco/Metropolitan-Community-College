@@ -12,19 +12,19 @@ All Completed assignments that required git.
     </tr>
     <tr>
         <td>My Page app</td>
-        <td>https://codepen.io/exenreco19/pen/zYGLJZM</td>
+        <td><a href="https://codepen.io/exenreco19/pen/zYGLJZM" target="_blank">https://codepen.io/exenreco19/pen/zYGLJZM</a></td>
     </tr>
     <tr>
         <td>Favorite Recipe</td>
-        <td>https://codepen.io/exenreco19/pen/NWVdzdK</td>
+        <td><a href="https://codepen.io/exenreco19/pen/NWVdzdK" target="_blank">https://codepen.io/exenreco19/pen/NWVdzdK</a></td>
     </tr>
     <tr>
         <td>Rest CSS</td>
-        <td>https://codepen.io/exenreco19/pen/eYagKvg</td>
+        <td><a href="https://codepen.io/exenreco19/pen/eYagKvg" target="_blank">https://codepen.io/exenreco19/pen/eYagKvg</a></td>
     </tr>
     <tr>
         <td>Art Store</td>
-        <td>https://codepen.io/exenreco19/pen/qBGRKPo</td>
+        <td><a href="https://codepen.io/exenreco19/pen/qBGRKPo" target="_blank">https://codepen.io/exenreco19/pen/qBGRKPo</a></td>
     </tr>
 </table>
 
