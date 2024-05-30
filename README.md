@@ -5,12 +5,28 @@ All Course took at Metropolitan Community College, This Package hosts multiple p
 All Completed assignments that required git.
 
 # Demos
-<ul>
-<li>My Page app - https://codepen.io/exenreco19/pen/zYGLJZM</li>
-<li>Favorite Recipe - https://codepen.io/exenreco19/pen/NWVdzdK</li>
-<li>Rest CSS - https://codepen.io/exenreco19/pen/eYagKvg</li>
-<li>Art Store - https://codepen.io/exenreco19/pen/qBGRKPo</li>
-</ul>
+<table>
+    <tr>
+        <th>Projects</th>
+        <th>Previews</th>
+    </tr>
+    <tr>
+        <td>My Page app</td>
+        <td>https://codepen.io/exenreco19/pen/zYGLJZM</td>
+    </tr>
+    <tr>
+        <td>Favorite Recipe</td>
+        <td>https://codepen.io/exenreco19/pen/NWVdzdK</td>
+    </tr>
+    <tr>
+        <td>Rest CSS</td>
+        <td>https://codepen.io/exenreco19/pen/eYagKvg</td>
+    </tr>
+    <tr>
+        <td>Art Store</td>
+        <td>https://codepen.io/exenreco19/pen/qBGRKPo</td>
+    </tr>
+</table>
 
 # Usage
 To use a particular project pull a project from the designated folder.
